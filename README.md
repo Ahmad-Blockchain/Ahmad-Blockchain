@@ -58,7 +58,7 @@ A Web3 automation system designed to monitor blockchain conditions and execute p
 * Node.js
 * Ethers.js
 
-🔗 Repository: *Coming soon*
+🔗 Repository: https://github.com/Ahmad-Blockchain/keeper-bot
 
 ---
 
@@ -75,7 +75,7 @@ A modern analytics dashboard built with Next.js and TypeScript for presenting ap
 * Data visualization
 * Modern frontend development
 
-🔗 Repository: *Coming soon*
+🔗 Repository: https://github.com/Ahmad-Blockchain/saas-analytics-dashboard
 
 ---
 
